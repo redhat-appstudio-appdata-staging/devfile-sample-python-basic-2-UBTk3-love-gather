@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-python-basic-eu0e
     app.kubernetes.io/part-of: devfile-sample-python-basic-2
-  name: devfile-sample-python-basydzq
+  name: devfile-sample-python-baszmmk
 spec:
   port:
     targetPort: 8081
