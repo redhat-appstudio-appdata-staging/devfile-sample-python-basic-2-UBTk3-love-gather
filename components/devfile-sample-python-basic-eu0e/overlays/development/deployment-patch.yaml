@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/beaumorley-tenant/devfile-sample-python-basic-2/devfile-sample-python-basic-eu0e@sha256:fe3a606171a7cf8ecb08094cc4e5fde89f1828bf6dc815d623a5872028debdae
+      - image: quay.io/redhat-user-workloads-stage/beaumorley-tenant/devfile-sample-python-basic-2/devfile-sample-python-basic-eu0e@sha256:a1e29910f47054e4482974a47c11341ea59ddcc53a58ea0b714f8d8e74f427b6
         name: container-image
         resources: {}
 status: {}
