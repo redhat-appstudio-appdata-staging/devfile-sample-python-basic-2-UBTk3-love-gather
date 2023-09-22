@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: devfile-sample-python-basic-eu0e
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/beaumorley-tenant/devfile-sample-python-basic-2/devfile-sample-python-basic-eu0e@sha256:a1e29910f47054e4482974a47c11341ea59ddcc53a58ea0b714f8d8e74f427b6
+      - image: quay.io/redhat-user-workloads-stage/beaumorley-tenant/devfile-sample-python-basic-2/devfile-sample-python-basic-eu0e@sha256:0f996b4a0cd6466da0d222dd3fc30b8b9b6ba1c66ee841f72a58e50b3ec925c4
         imagePullPolicy: Always
         name: container-image
         ports:
